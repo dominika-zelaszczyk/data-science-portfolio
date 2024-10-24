@@ -29,5 +29,3 @@ The project analyzes biodiversity data from the National Parks Service to explor
     *Tools: Pandas, NumPy, Matplotlib/Seaborn, Statistical analysis*
 
 Contact me at [dominika.zelaszczyk@gmail.com](mailto:dominika.zelaszczyk@gmail.com) to talk about my portfolio, work opportunities, or collaborations.
-
-# data-science-portfolio
